@@ -1,3 +1,6 @@
+# Complete Lambda Layer Resource S3 Example
+To create a Lambda Layer Resource from a code stored in a S3 Bucket
+
 ## Usage
 
 ```hcl

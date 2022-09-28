@@ -1,3 +1,6 @@
+# Simple Lambda Layer Resource Example
+To create a Lambda Layer Resource only with required fields
+
 ## Usage
 
 ```hcl

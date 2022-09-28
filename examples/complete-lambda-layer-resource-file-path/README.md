@@ -1,3 +1,6 @@
+# Complete Lambda Layer Resource File Path Example
+To create a Lambda Layer Resource from a code in a local zip file
+
 ## Usage
 
 ```hcl
