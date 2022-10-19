@@ -1,4 +1,4 @@
-resource "aws_lambda_layer_version" "dependencies_layer" {
+resource "aws_lambda_layer_version" "layer" {
   layer_name               = var.LAYER_NAME
   filename                 = var.FILENAME
   compatible_runtimes      = [var.COMPATIBLE_RUNTIMES]
