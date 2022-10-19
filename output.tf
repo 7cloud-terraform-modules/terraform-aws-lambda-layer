@@ -63,6 +63,6 @@ output "SOURCE_CODE_HASH" {
 # #                                      RESOURCE                                           #
 # ###########################################################################################
 output "LAYER_ARN" {
-  value = aws_lambda_layer_version.dependencies_layer.arn
+  value = aws_lambda_layer_version.layer.arn
   description = "Lambda Layer Resource's ARN"
 }
